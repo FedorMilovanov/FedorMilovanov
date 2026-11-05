@@ -3,8 +3,8 @@
 **Продуктовый инженер и технический редактор.** Строю продакшн-системы соло, управляя командой ИИ-агентов:
 контракты → гейты → доказательная приёмка → живой продакшн.
 
-**AI-native product builder.** I ship production systems solo by directing AI agents under
-machine-checked contracts — and I make the result verifiable.
+**AI-native product builder · visual direction.** I guide AI-assisted development, define visual intent,
+review design decisions and verify what actually ships — without claiming to hand-code or hand-design every asset.
 
 ---
 
@@ -13,6 +13,10 @@ machine-checked contracts — and I make the result verifiable.
 [Портфолио на сайте](https://fedormilovanov.github.io/portfolio/) · [Portfolio website](https://fedormilovanov.github.io/portfolio/en/)
 
 [Портфолио на русском](https://github.com/FedorMilovanov/Research/blob/main/PORTFOLIO/PORTFOLIO_RU.md) · [Portfolio in English](https://github.com/FedorMilovanov/Research/blob/main/PORTFOLIO/PORTFOLIO_EN.md) · [Аудит и метод проверки](https://github.com/FedorMilovanov/Research/blob/main/PORTFOLIO/AUDIT_RU.md)
+
+**Визуальное направление / Visual direction.** Подбираю визуальный язык под задачу продукта — от академической библиотеки до культурной платформы и коммерческой витрины. Формулирую требования к композиции, типографике и мобильному интерфейсу; сравниваю варианты, отмечаю несогласованность и принимаю итоговую реализацию. Код, изображения и часть дизайн-вариантов создаются при участии ИИ — моя роль в постановке, отборе и контроле качества.
+
+[**5 визуальных кейсов: десктоп + мобильная версия (RU)**](https://fedormilovanov.github.io/portfolio/#visual) · [**Visual direction: 5 live product case studies (EN)**](https://fedormilovanov.github.io/portfolio/en/#visual)
 
 ## Что работает прямо сейчас · Live
 
@@ -28,7 +32,7 @@ machine-checked contracts — and I make the result verifiable.
 
 ## Цифры · Numbers
 
-`5` живых продуктов · `241` CI-пайплайнов · `221 596` запусков CI · `1 390` тестовых и QA-файлов ·
+`5` живых продуктов · `241` файлов CI-workflow · `221 596` запусков CI · `1 390` тестовых и QA-файлов ·
 `766 175` строк прикладного кода под управлением ·
 музыка, клипы и визуал на канале о поэзии · теологический архив 11+ лет ·
 
@@ -37,6 +41,7 @@ machine-checked contracts — and I make the result verifiable.
 - **Agent orchestration and verification** — контракты, fail-closed гейты, посткондиции, `never_replay`, single-writer locks.
 - **Editorial technology** — доказательные цифровые библиотеки: классы источников, локаторы, права, SEO, доступность.
 - **AI media production** — музыка в Suno по своим текстам и промтам, ИИ-визуал и клипы, кросс-платформенная дистрибуция с точной идентичностью объектов.
+- **Visual direction / art review** — визуальная идентичность, типографика, композиция, адаптивная подача, критическая приёмка вариантов; работа с ИИ-инструментами без заявлений о навыках Figma или измеренном росте конверсии.
 - **Full-cycle product** — исследование → контент → сайт или бот → аналитика → эксплуатация.
 
 ## Как я работаю · How I work
